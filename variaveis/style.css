@@ -1,0 +1,14 @@
+:root{
+    --cor-principal: #3c59e7;
+    --cor-claro: #fff;
+    --cor-escuro: #000;
+    --preenchimento-pq: 1rem;
+    --preenchimento-md: 2rem;
+    --preenchimento-gd:4rem;
+}
+
+header{
+    background-color: var(--cor-escuro);
+    color: var(--cor-claro);
+    padding: var(--preenchimento-pq);
+}
